@@ -1,39 +1,66 @@
-# Mambila Analytics
+# 🏔️ Mambila Analytics
 
-Data-driven insights for smarter business decisions.
+## Turning Data Into Clear Business Insights
 
-## What We Do
-We help SMEs and growing organizations understand their data through business-focused analytics, reporting, and insights.
+**Mambila Analytics** is a data analytics organization focused on helping businesses, startups, and SMEs make **data-driven decisions** through practical analysis, visualization, and storytelling.
 
-## Services
-- Business & sales analysis  
-- Performance reporting  
-- Market and trend analysis  
+Inspired by the **Mambila Plateau**, the brand represents clarity, perspective, and elevated thinking — transforming raw data into meaningful insight.
 
-## Tools
-Excel • SQL • Python
+---
 
-## Founder
-Usman Ahmadu — Data Analyst
+## 🔍 What We Do
+We support organizations with:
+- 📊 Data analysis & reporting  
+- 📈 Trend and performance analysis  
+- 🌍 Regional and market insights  
+- 🧠 Business intelligence & decision support  
+- 📉 Data cleaning and preparation  
 
-## Contact
-Email: # Mambila Analytics
+---
 
-Data-driven insights for smarter business decisions.
+## 🛠 Tools & Technologies
+- **Excel** (Pivot Tables, Dashboards, Advanced Formulas)  
+- **SQL** (Data querying & analysis)  
+- **Python** (Pandas, NumPy, Data Visualization)  
+- **Power BI / Tableau** *(planned)*  
 
-## What We Do
-We help SMEs and growing organizations understand their data through business-focused analytics, reporting, and insights.
+---
 
-## Services
-- Business & sales analysis  
-- Performance reporting  
-- Market and trend analysis  
+## 📂 Featured Projects
 
-## Tools
-Excel • SQL • Python
+### 🎮 Video Game Sales Analysis (1971–2024)
+An exploratory analysis of global video game sales across **64,000+ titles**, uncovering:
+- Top-selling games worldwide  
+- Industry growth trends  
+- Regional performance differences  
 
-## Founder
-Usman Ahmadu — Data Analyst
+🔗 **View project:**  
+https://github.com/Mambila-Analytics/video-game-sales-analysis
 
-## Contact
-Email: mambilaanalytics@gmail.com
+---
+
+## 💡 Why Mambila Analytics
+- Business-focused insights, not just charts  
+- Clear storytelling backed by data  
+- Practical analysis for real-world decisions  
+- Scalable from small businesses to large datasets  
+
+---
+
+## 🤝 Contributors
+**Usman Ahmadu**  
+Data Analyst | Excel • SQL • Python  
+
+---
+
+## 🚀 Roadmap
+- Add SQL-based analysis projects  
+- Build Python exploratory data analysis case studies  
+- Develop interactive dashboards  
+- Publish client-focused analytics case studies  
+
+---
+
+## 📬 Get in Touch
+📧 Email: mambilaanalytics.com  
+🌐 GitHub: https://github.com/Mambila-Analytics
